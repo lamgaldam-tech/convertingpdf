@@ -1,6 +1,6 @@
 # 📄✨ ConvertingPDF
 
-[ConvertingPDF Web App](https://younes-alhyan.github.io/convertingpdf/) – a simple and modern tool for handling everyday PDF tasks like merging, splitting, and more.
+[ConvertingPDF Web App](https://lamgaldam-tech.github.io/convertingpdf/) – a simple and modern tool for handling everyday PDF tasks like merging, splitting, and more.
 
 ## 🚀 Features
 
@@ -16,7 +16,7 @@
 
 - 🎨 **Frontend:** [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-- 🖥️ **Backend:** [ConvertingPDF-server](https://github.com/younes-alhyan/convertingpdf-server) (collaboration with [@younes-alhyan](https://github.com/younes-alhyan))
+- 🖥️ **Backend:** [ConvertingPDF-server](https://github.com/lamgaldam-tech/convertingpdf-server)
 
 ## 📖 How to Use (Development)
 
@@ -24,7 +24,7 @@ Clone the repo and run it locally:
 
 ```bash
 # Clone frontend
-git clone https://github.com/lamgaldamtechnology/convertingpdf.git
+git clone https://github.com/lamgaldam-tech/convertingpdf.git
 cd convertingpdf
 ```
 
